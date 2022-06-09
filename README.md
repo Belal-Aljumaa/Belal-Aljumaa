@@ -2,6 +2,10 @@
   <img src="https://github.com/Belal-Aljumaa/Belal-Aljumaa/blob/main/profile-img.png" width="25%"/>
 </p>
 
+<div id="badges" align="center" >
+<img src="https://komarev.com/ghpvc/?username=Belal-Aljumaa&style=flat-square&color=blue" alt="" width="200px" height="50px"/>
+</div>
+
 <h1 align="center">Hi, I'm Belal 👋</h1>
 
 <div align="center">
